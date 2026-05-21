@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I am currently building apps through vibe coding, check out some of my vibecoded funtional apps
+- 
+
 <!--
 **ashkadian/ashkadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
