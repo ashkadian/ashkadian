@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 - I am currently building apps through vibe coding, check out some of my vibecoded funtional apps
-- https://aigymopscopilot.lovable.app/
-- How to measure metrics in the age of AI
+  https://aigymopscopilot.lovable.app/
+  
+- Currently working on a document on how to measure metrics in the age of AI
 
-- AI metrics are where the guesswork of AI strategy meets scientific and operational rigor. These measurements provide the framework to measure AI performance across technical execution and business outcomes, ensuring AI operations are safe, transparent, and successful.
+AI metrics are where the guesswork of AI strategy meets scientific and operational rigor. These measurements provide the framework to measure AI performance across technical execution and business outcomes, ensuring AI operations are safe, transparent, and successful.
 
 For leaders under pressure to prove return on investment (ROI), AI metrics are proof of progress—showing how AI-powered automation, hyper-personalization, or customer support translates into measurable value—and pinpointing where to focus next.
 
