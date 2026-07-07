@@ -15,8 +15,6 @@ For customers, AI metrics are a bond of trust, representing organizations’ eff
 
 Yet according to a 2024 IBM study, only 35% of enterprises track AI performance metrics, even though 80% say reliability of AI operations is their top concern.
 
-In this guide, you’ll learn the key AI metrics across domains, why they matter, and how to connect them to real-world success using business AI KPIs. Plus, a few best practices to help you get started.
-
 Key takeaways
 Measuring AI requires various metrics that span the domains of business, technical performance, user experience, and AI responsibility.
 
